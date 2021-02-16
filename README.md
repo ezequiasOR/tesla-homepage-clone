@@ -14,8 +14,6 @@ This project was a [Tesla Homepage](https://www.tesla.com/) UI clone only for st
 
 ### 🚀 Techs:
 
-As seguintes ferramentas foram usadas na construção do projeto:
-
 - [React](https://pt-br.reactjs.org/)
 - [Styled Components](https://styled-components.com/)
 - [TypeScript](https://www.typescriptlang.org/)
